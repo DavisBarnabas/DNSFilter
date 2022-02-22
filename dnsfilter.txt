@@ -10,3 +10,4 @@
  ||kannada.asianetnews.com^
  ||adskeeper.com^
  ||asianetnews.com^
+ ||log.videocampaign.co^
