@@ -11,3 +11,4 @@
  ||adskeeper.com^
  ||asianetnews.com^
  ||log.videocampaign.co^
+ ||adskeeper.co.uk^
